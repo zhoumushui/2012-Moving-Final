@@ -1,0 +1,15 @@
+﻿
+<?xml version="1.0" encoding="utf-8"?>
+<GamePackBrand>
+
+		<brand id='1'><brandtitle>United Nations Children's Fund</brandtitle><thumb>images/a01.jpg</thumb><swf>images/a1.jpg</swf><link>http://www.unicef.cn/cn/</link><target>_new</target></brand>
+	
+		<brand id='2'><brandtitle>The Red Cross society of China</brandtitle><thumb>images/a02.jpg</thumb><swf>images/a2.jpg</swf><link>http://www.redcross.org.cn/</link><target>_new</target></brand>
+	
+		<brand id='3'><brandtitle>China's public welfare and charity</brandtitle><thumb>images/a03.jpg</thumb><swf>images/a3.jpg</swf><link>http://www.charity.gov.cn/fsm/sites/newmain/index2.jsp</link><target>_new</target></brand>
+	
+		<brand id='4'><brandtitle>Google - benefit of warm</brandtitle><thumb>images/a04.jpg</thumb><swf>images/a4.jpg</swf><link>http://www.gong1chuang1.com/</link><target>_new</target></brand>
+	
+		<brand id='5'><brandtitle>Tencent Public</brandtitle><thumb>images/a05.jpg</thumb><swf>images/a5.jpg</swf><link>http://gongyi.qq.com/</link><target>_new</target></brand>
+	
+</GamePackBrand>
